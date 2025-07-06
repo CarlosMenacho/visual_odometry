@@ -1,0 +1,3 @@
+_target_: src.model.get_resnet18
+pretrained: false
+num_classes: 10

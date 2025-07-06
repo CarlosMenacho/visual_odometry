@@ -1,0 +1,10 @@
+defaults:
+  - _self_
+  - model: resnet
+  - optimizer: adam
+  - dataset: cifar10
+
+seed: 42
+epochs: 10
+batch_size: 16
+device: cuda

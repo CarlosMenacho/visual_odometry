@@ -1,0 +1,4 @@
+_target_: torchvision.datasets.CIFAR10
+root: ./data
+train: true
+download: true
